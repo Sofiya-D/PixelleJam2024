@@ -1,2 +1,2 @@
 # PixelleJam2024
-Repo for the Unity project of the PixelleJam 2024
+Bienvenue sur la page GitHub su projet Unity pour la PixelleJam2024 !
